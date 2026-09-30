@@ -1,5 +1,5 @@
 # homebrew-tap
 
-    brew install zenmz/tap/wa
+    brew install zenmz/tap/wa-desk
 
-Formula: [wa](Formula/wa.rb) — WhatsApp Desktop ringan untuk macOS (WKWebView native, tanpa Electron). Sumber: https://github.com/zenmz/wa
+Formula: [wa-desk](Formula/wa-desk.rb) — WhatsApp Desktop ringan untuk macOS (WKWebView native, tanpa Electron). Sumber: https://github.com/zenmz/wa-desk
