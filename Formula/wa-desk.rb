@@ -1,8 +1,8 @@
 class WaDesk < Formula
   desc "Lightweight native WhatsApp client for macOS: one window, multi-account, privacy blur, bookmarks, tags, quiet hours"
   homepage "https://github.com/zenmz/wa-desk"
-  url "https://github.com/zenmz/wa-desk/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "34aac8a555aab1fe267e0c17c3c4f85afa0e6c5dcad60ce9e0e72a442d2087ea"
+  url "https://github.com/zenmz/wa-desk/archive/refs/tags/v0.5.2.tar.gz"
+  sha256 "2b5799c3853eb635d8e09c18f6f73d65d834cb468449030cb204fc7e6e3d32a8"
   head "https://github.com/zenmz/wa-desk.git", branch: "main"
 
   depends_on macos: :sonoma
